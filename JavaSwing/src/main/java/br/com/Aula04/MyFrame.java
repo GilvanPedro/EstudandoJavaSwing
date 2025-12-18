@@ -10,9 +10,10 @@ public class MyFrame extends JFrame implements ActionListener {
     JLabel label;
 
     MyFrame(){
+
         label = new JLabel();
-        label.setText("Botão Clicado");
         label.setBounds(200, 250, 150, 150);
+        label.setText("Botão clicado");
         label.setVisible(false);
         label.setFont(new Font("Arial", Font.BOLD, 16));
 
