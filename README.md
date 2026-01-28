@@ -49,6 +49,7 @@ graph TD
     F --> I(Label.java);
     G --> I(Label.java);
     H --> I(Label.java);
+    C --> I(Label.java);
 ```
 
 ## ✨ Funcionalidades Principais
