@@ -44,7 +44,11 @@ graph TD
     B --> F(Aula04);
     B --> G(CalculadoraPiada);
     B --> H(Contador);
-    D --> H(Label.java);
+    D --> I(Label.java);
+    E --> I(Label.java);
+    F --> I(Label.java);
+    G --> I(Label.java);
+    H --> I(Label.java);
 ```
 
 ## ✨ Funcionalidades Principais
