@@ -84,8 +84,5 @@ public class MainFrame extends JFrame implements ActionListener {
 
         label.setText(String.valueOf(contador));
     }
-
-    public static void main(String[] args) {
-        new MainFrame();
-    }
 }
+
